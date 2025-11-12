@@ -16,7 +16,7 @@ SKILS AND KNOWLEDGE DEMONSTRADED:
 
 WHAT THIS FILE CONTAINS:
   This file contains 2 branches one for AI and one for GAME
-  > AI branch contains the artificial intelligence logic that powers the computer-controlled opponent in the game.
+  > MAIN branch contains the artificial intelligence logic that powers the computer-controlled opponent in the game.
     It uses Minimax, heuristic evaluations, and game-state analysis to make intelligent move decisions against the human player.
   > GAME branch contains the core game engine and logic for handling the board, movement, and gameplay rules.
     It defines how the pieces move, how turns are managed, and how the AI interacts with the grid.
